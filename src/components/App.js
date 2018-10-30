@@ -25,7 +25,6 @@ import PetBrowser from './PetBrowser'
       };
    render() {
     return (
- export default class App extends React.Component {
         <div className="ui container">
           <div className="ui grid">
             <div className="four wide column">
