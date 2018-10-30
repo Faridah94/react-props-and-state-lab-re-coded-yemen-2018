@@ -1,3 +1,4 @@
+import React from 'react'
 import PetBrowser from './PetBrowser'
  export default class App extends React.Component {
    constructor() {
