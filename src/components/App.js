@@ -5,7 +5,6 @@ import Filters from './Filters'
  export default class App extends React.Component {
    constructor() {
     super()
-    super();
      this.state = {
       pets: [],
     }
