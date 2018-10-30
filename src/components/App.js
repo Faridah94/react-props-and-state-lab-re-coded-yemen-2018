@@ -1,5 +1,7 @@
 import React from 'react'
 import PetBrowser from './PetBrowser'
+import Filters from './Filters'
+
  export default class App extends React.Component {
    constructor() {
     super()
